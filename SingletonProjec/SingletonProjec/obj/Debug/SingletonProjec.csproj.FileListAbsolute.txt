@@ -1,0 +1,12 @@
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\SingletonProjec.dll.config
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\SingletonProjec.dll
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\SingletonProjec.pdb
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\EntityFramework.dll
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\EntityFramework.xml
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\obj\Debug\SingletonProjec.csprojAssemblyReference.cache
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\obj\Debug\SingletonProjec.csproj.CoreCompileInputs.cache
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\obj\Debug\SingletonProjec.csproj.CopyComplete
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\obj\Debug\SingletonProjec.dll
+C:\Users\muhar\source\repos\SingletonProjec\SingletonProjec\obj\Debug\SingletonProjec.pdb
